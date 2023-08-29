@@ -1,0 +1,2 @@
+# ScaffoldFilter
+Filter scaffolds
