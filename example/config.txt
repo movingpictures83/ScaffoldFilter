@@ -1,0 +1,2 @@
+Prefix plugins/ScaffoldFilter/example/
+Plugin ScaffoldFilter inputfile output.main.txt outputfile output.scaffold_filter.txt
